@@ -1,7 +1,7 @@
 # Visual Classifier
 
 As part of taking the fast.ai course, I have fine tuned a model on top of `resnet18` to identify the difference between a
-2020 BMW M3 and a Porsche 911.
+2020 BMW M3 and a 2020 Porsche 911.
 
 With some of the configurations set I have achieved at least a baseline accuracy of 93%.
 
